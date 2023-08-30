@@ -211,7 +211,7 @@ section .container > *{
     position: absolute;
     height: 200px;
     width: 100%;
-    bottom: 660px;
+    bottom: 730px;
     z-index: 25;
     background: linear-gradient(to bottom, #000000, transparent);
 
