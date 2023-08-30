@@ -160,7 +160,7 @@ section .container{
     grid-template-columns: repeat(2, 1fr);
     align-items: center;
     justify-content: center;
-    min-height: 100vh;
+    min-height: 98vh;
 }
 
 section img{
