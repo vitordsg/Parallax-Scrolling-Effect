@@ -165,6 +165,8 @@ section .container{
 
 section img{
     width: 100%;
+    transition: .7s;
+    transition-timing-function: ease;
 }
 
 section .container > *{
@@ -180,8 +182,10 @@ section .container > *{
     transform: translateY(50px);
 }
 
-.imgContainer:hover {
-    width: 110%;
+.imgContainer img:hover {
+    width: 80%;
+    transition: .7s;
+    transition-timing-function: ease;
 }
 
 .title{
