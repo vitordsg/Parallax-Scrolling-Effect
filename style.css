@@ -180,6 +180,10 @@ section .container > *{
     transform: translateY(50px);
 }
 
+.imgContainer:hover {
+    width: 110%;
+}
+
 .title{
     font-weight: 600;
     font-size: 1.5rem;
